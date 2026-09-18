@@ -1,0 +1,6 @@
+{
+  "name": "CampusLife",
+  "description": "CampusLife – Student Journey Platform: unified portal for academic deadlines, geofenced attendance, assignments, exams, events, notices, and verifiable student college journey.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
